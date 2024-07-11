@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa;  
+    font-family: 'Arial', sans-serif;
+}
+.container {
+    margin-top: 50px;
+}
+h1 {
+    border: 2px solid #2c3e50;  
+    background-color: skyblue;  
+    color: #2c3e50; 
+    padding: 20px;
+    font-size: 2em;
+    border-radius: 5px;
+    text-align: center;
+}
+.form-label {
+    color: #2c3e50;  
+    font-weight: bold;
+}
+.form-control {
+    border: 2px solid #2c3e50; 
+    background-color: #ecf0f1;  
+    color: #2c3e50; 
+    width: 25%;  
+    display: inline-block; 
+}
+button {
+    font-size: 2em;
+}
+img {
+    margin-top: 20px;
+    border: 2px solid #2c3e50;
+    border-radius: 10px;
+}
